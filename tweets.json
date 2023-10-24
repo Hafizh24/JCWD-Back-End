@@ -1,0 +1,12 @@
+[
+  { "id": 1, "userId": 1, "text": "Hello, Twitter!" },
+  { "id": 2, "userId": 1, "text": "This is a tweet!" },
+  { "userId": 1, "text": "hello world", "id": 3 },
+  { "userId": 2, "text": "apaaaaaa", "id": 4 },
+  { "userId": 1, "text": "manasooo", "id": 5 },
+  { "userId": 1, "text": "nhnnh", "id": 6 },
+  { "userId": 1, "text": "hello world", "id": 7 },
+  { "userId": 6, "text": "luthfi sepuhhhh", "id": 8 },
+  { "userId": 6, "text": "puhhh puh", "id": 9 },
+  { "userId": 6, "text": "xxaxsxa", "id": 10 }
+]
